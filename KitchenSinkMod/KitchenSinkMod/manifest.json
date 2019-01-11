@@ -1,0 +1,10 @@
+{
+  "Name": "KitchenSinkMod",
+  "Author": "Jared Rosenberger (PizzaReaver)",
+  "Version": "0.0.1",
+  "description": "Basically a mish-mash of new additions for Stardew, for the sort of player who really wanted to make Smoothies and Poutine.",
+  "UniqueID": "PizzaReaver.KitchenSinkMod",
+  "EntryDll": "KitchenSinkMod.dll",
+  "MinimumApiVersion": "2.9",
+  "UpdateKeys": []
+}

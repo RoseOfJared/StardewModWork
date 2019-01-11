@@ -1,0 +1,60 @@
+The formats below are for the following:
+
+Crops
+BigCraftables
+ObjectInformation
+
+Link: https://stardewvalleywiki.com/Modding:Crop_data
+Crops
+0 - Seed Index (from ObjectInformation.xnb)
+1 - Days in each stage of growth
+2 - Growth Season(s)
+3 - Row in Sprite Sheet (Content\TileSheets\Crop.xnb)
+4 - Index of Harvest(from ObjectInformation.xnb)
+5 - Regrow after Harvest
+6 - Harvest Method
+7 - Chance for Extra Harvest
+8 - Raised Seeds
+9 - Tint Color
+
+Link:https://stardewvalleywiki.com/Modding:Big_Craftables_data
+BigCraftables
+0 - Name
+1 - Price
+2 - Edibility
+3 - Type & Category
+4 - Description
+5 - Can be set outdoors
+6 - Can be set indoors
+7 - Fragility
+8 - isLamp
+9 - Name (for language files other than English)
+
+Link: https://stardewvalleywiki.com/Modding:Object_data
+ObjectInformation
+0 - name
+1 - price (if sold by player)
+2 - edibility
+3 - type and category
+4 - display name (specific to language file)
+5 - description
+6 - Food/Drink
+7 - (If food/drink) Buff Type
+8 - (If food/drink) Buff Duration
+
+Buff Value Table
+0 - Farming
+1 - Fishing
+2 - Mining
+3 - Digging(unimplemented)
+4 - Luck
+5 - Foraging
+6 - Crafting(unimplemented)
+7 - Max Energy
+8 - Magnetism
+9 - Speed
+10 - Defense
+11 - Attack
+
+Categories
+
