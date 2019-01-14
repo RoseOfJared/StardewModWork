@@ -1,0 +1,45 @@
+KitchenSink
+Basically just lean into the name and have a bunch of additions to the cooking/kitchen area.
+
+I want to add in new craftables that, when you interact with them, they help to make the new additions.
+
+Recipes
+	-Artisanal Burger
+	-Sweet Potato Fries
+	-French Fries
+	-Poutine
+	-Spinach Artichoke Dip
+	-Cheese Curds
+	-Strange Smoothie (See experimental)
+	-Super Hot Sauce (drink it, lose health, but gain big attack 	buff)
+	-Strawberry Rhubarb Pie
+	-Popcorn
+	-Citrus Beer
+	-Poppyseed Bagel
+	-Coleslaw
+	-Salsa
+	-Gin (from Juniper)
+	-Potato Mash (for Vodka)
+	-Vodka (from Potato Mash)
+	-"Essential" Oil (pretty much all harmful edibles)
+	-Nature's Bounty salad (Uses Dandelions)
+
+Crops
+	-Spinach
+	-Rhubard
+	-Beans (different from standard Green Bean, just one variety 	for now
+	-Tea Leaves (Grown on a trellis? Similar function to coffee)
+	-Onions (Different varieties, for now just one is fine)
+	-Juniper (for Gin)
+	-Peanuts
+
+Craftables
+	-Mortar and Pestle (placable, all recipes work the same, merelt 	for the aesthetics)
+	
+
+Experimentals
+	-New Oils? (have to have same function as other oils or to not 		be compatible with other recipes with oil. or just keep the oil 	generic)
+	-Fried Mess (Put in something that shouldn't be fried)
+	-Smoothies (gives more meaning to the fruits, could also make 		the fruit bat cave more useful by proxy)
+	-Fryer (Possible implementation of different types of Oil?)
+	-Blender (For use in making Smoothies)
