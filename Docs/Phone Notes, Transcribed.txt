@@ -27,7 +27,7 @@ Recipes
 Crops
 	-Spinach
 	-Rhubard
-	-Beans (different from standard Green Bean, just one variety 	for now
+	-Beans (different from standard Green Bean, just one variety 		for now
 	-Tea Leaves (Grown on a trellis? Similar function to coffee)
 	-Onions (Different varieties, for now just one is fine)
 	-Juniper (for Gin)
@@ -35,6 +35,7 @@ Crops
 
 Craftables
 	-Mortar and Pestle (placable, all recipes work the same, merelt 	for the aesthetics)
+	-Cuddly Buddy (basically a Metroid, look, he's so affectionate)
 	
 
 Experimentals
@@ -43,3 +44,4 @@ Experimentals
 	-Smoothies (gives more meaning to the fruits, could also make 		the fruit bat cave more useful by proxy)
 	-Fryer (Possible implementation of different types of Oil?)
 	-Blender (For use in making Smoothies)
+	-Dairy Press (Basically just creating a machine that will 	create the mod's dairy components)
