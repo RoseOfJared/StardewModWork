@@ -1,0 +1,16 @@
+KitchenSink mod
+-This is the big one, one where I'll be adding in new Crops, Craftables, Recipes and Mechanics
+
+ChozoStyle mod
+-Basically changing sprites in Stardew Valley to be more like Metroid Fusion
+	-Slimes could be little baby Metroids
+	-Life Elixir could be Energy Tanks
+	-Small bombs would be Small bombs (from Metroid)
+	-Big bombs would be Power Bombs
+	-Water would be retextured (might destroy everything, keep as a 	maybe)
+	-Ditto for Lava
+	-Flies would be Menu (from Metroid Fusion)
+	-Message box retextured to be like Metroid Fusion's
+	-The Slime stuff in Crobus's place would be the Beta Acid from 		Metroid Fusion
+	-Change Crobus' look to be more Chozo
+	-Alternatively, changing the Slimes to be kinda like the X, or 	like those amoeba things in Section 1 of Metroid Fusion
