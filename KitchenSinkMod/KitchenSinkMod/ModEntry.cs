@@ -1,24 +1,24 @@
 ﻿using System;
 using Microsoft.Xna.Framework;
-//using StardewModdingAPI;
-//using StardewModdingAPI.Events;
-//using StardewModdingAPI.Utilities;
-//using StardewValley;
+using StardewModdingAPI;
+using StardewModdingAPI.Events;
+using StardewModdingAPI.Utilities;
+using StardewValley;
 
 namespace KitchenSinkMod
 {
-    public class ModEntry //: Mod
+    public class ModEntry : Mod
     {
-
         /*********
         ** Public methods
         *********/
         /// <summary>The mod entry point, called after the mod is first loaded.</summary>
         /// <param name="helper">Provides simplified APIs for writing mods.</param>
-        //public override void Entry(IModHelper helper)
-        //{
-           // helper.Events.Input.ButtonPressed += this.OnButtonPressed;
-        //}
+        public override void Entry(IModHelper helper)
+        {
+            helper.Events.Input.ButtonPressed += this.OnButtonPressed;
+            
+        }
 
         /*********
         ** Private methods
@@ -26,15 +26,29 @@ namespace KitchenSinkMod
         /// <summary>Raised after the player presses a button on the keyboard, controller, or mouse.</summary>
         /// <param name="sender">The event sender.</param>
         /// <param name="e">The event data.</param>
-        //private void OnButtonPressed(object sender, ButtonPressedEventArgs e)
-        //{
+        private void OnButtonPressed(object sender, ButtonPressedEventArgs e)
+        {
             //Ignore if player hasn't loaded a save yet
-            //if (!Context.IsWorldReady)
-               // return;
+            if (!Context.IsWorldReady)
+                return;
 
             //print button presses to the console window
-            //this.Monitor.Log($"{Game1.player.Name} pressed {e.Button}.");
+            this.Monitor.Log($"{Game1.player.Name} pressed {e.Button}.");
 
-        //}
+        }
+        /// <summary>
+        /// The method invoked after the game updates (roughly 60 times per second)        
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void GameEvents_UpdateTick(object sender, EventArgs e)
+        {
+            //Skip if save is not Loaded yet
+            if (!Context.IsWorldReady)
+                return;
+
+
+        }
+
     }
 }
