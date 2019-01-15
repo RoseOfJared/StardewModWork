@@ -1,0 +1,23 @@
+Crop Items/Progress in Growth
+	-Spinach 
+	-Rhubarb 
+	-Bean 
+	-Tea Leaves
+	-Onions
+	-Juniper
+	-Peanuts
+
+Food
+	-Artisanal Burger
+	-Artichoke Spinach Dip
+	-Sweet Potato Fries
+	-French Fries
+	-Poutine
+	-Cheese Curds
+	-Strange Smoothie
+	-Super-Hot Sauce
+	-Gravy
+
+Craftables
+	-Mortar and Pestle
+	-Cuddly Buddy
